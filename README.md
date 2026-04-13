@@ -10,18 +10,20 @@ The dashboard provides insights into top polluted cities, dominant pollutants, p
 ![Dashboard](air-quality-dashboard.png)
 
 
-Objectives
-Identify cities with highest average pollution levels
-Determine dominant pollutant distribution
-Analyze pollution category patterns
-Visualize geographic spread of maximum pollution
-Enable interactive filtering by city and pollutant type
+## Objectives
 
-Tools & Technologies Used
--Power BI
-- DAX (Basic Measures)
-- Data Cleaning & Transformation
-- Data Visualization Best Practices
+- Identify cities with highest average pollution levels  
+- Determine dominant pollutant distribution  
+- Analyze pollution category patterns  
+- Visualize geographic spread of maximum pollution  
+- Enable interactive filtering by city and pollutant type
+
+## Tools & Technologies Used
+
+- Power BI  
+- DAX (Basic Measures)  
+- Data Cleaning & Transformation  
+- Data Visualization  
 
 Key Features
 - KPI indicators (Total Cities, Monitoring Stations, Avg Pollution, Max Pollution)
