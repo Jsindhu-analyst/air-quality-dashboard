@@ -9,6 +9,7 @@ The dashboard provides insights into top polluted cities, dominant pollutants, p
 
 ![Dashboard](air-quality-dashboard.png)
 
+
 Objectives
 Identify cities with highest average pollution levels
 Determine dominant pollutant distribution
