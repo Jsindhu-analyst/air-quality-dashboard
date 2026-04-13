@@ -4,8 +4,10 @@ Project Overview
 This project presents an interactive Power BI dashboard analyzing air pollution levels across Indian cities using CPCB monitoring data.
 The dashboard provides insights into top polluted cities, dominant pollutants, pollution categories, and geographic distribution of pollution levels.
 
+
 ## Dashboard Preview
-(air-quality-dashboard.png)
+
+![Dashboard](air-quality-dashboard.png)
 
 Objectives
 Identify cities with highest average pollution levels
