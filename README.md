@@ -5,7 +5,7 @@ This project presents an interactive Power BI dashboard analyzing air pollution 
 The dashboard provides insights into top polluted cities, dominant pollutants, pollution categories, and geographic distribution of pollution levels.
 
 ## Dashboard Preview
-![Dashboard](air-quality-dashboard.png)
+(air-quality-dashboard.png)
 
 Objectives
 Identify cities with highest average pollution levels
